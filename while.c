@@ -9,7 +9,7 @@ int main()
     upper = 0; /* upper limit */
     step = 20; /* step size */
     cels = upper;
-    while (cels <= upper) {
+    while (cels >= upper) {
         fahrenheit = (9.0/5.0) * (cels+32.0);
         printf("%3.0f %6.1f\n", cels, fahrenheit);
         cels = cels - step;

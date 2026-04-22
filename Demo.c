@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char main() {
+int main() {
     int age = 20;
     double dec = 12.45;
     char statement = 'K';
