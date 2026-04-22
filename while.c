@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*this produces and infinte number of results*/
 
 int main()
 {
