@@ -7,14 +7,8 @@ int main(){
     int result;
 
 
-    printf("Enter your operator(+ - * /) : ");
-    scanf("%c", &operator);
-
-    printf("Enter num1 : ");
-    scanf("%d" , &num1);
-    
-    printf("Enter num2 : ");
-    scanf("%d" , &num2);
+    printf("Enter your operator, num1, num2 : ");
+    scanf("%c, %d, %d", &operator, &num1, &num2);
 
     switch(operator){
         case '+':
