@@ -1,3 +1,5 @@
+/* Your identification has been saved in C:\Users\GAIO SYSTEMS/.ssh/id_ed25519 */
+/* Your public key has been saved in C:\Users\GAIO SYSTEMS/.ssh/id_ed25519.pub */
 #include <stdio.h>
 int summation(int x,int y)
 {
